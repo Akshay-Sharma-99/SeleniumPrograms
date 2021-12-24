@@ -1,0 +1,6 @@
+2021-12-06 13:18:55,549  INFO [main] Log4jDemo:17 - Launch Bowser
+2021-12-06 13:18:58,737  INFO [main] Log4jDemo:21 - Opened application
+2021-12-06 13:18:58,754  INFO [main] Log4jDemo:29 - Title verified
+2021-12-06 13:20:20,493  INFO [main] Log4jDemo:17 - Launch Bowser
+2021-12-06 13:20:23,159  INFO [main] Log4jDemo:21 - Opened application
+2021-12-06 13:20:23,174 ERROR [main] Log4jDemo:38 - Incorrect title
